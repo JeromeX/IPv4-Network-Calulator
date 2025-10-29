@@ -20,6 +20,7 @@ Funktions:
 •	Duplicate networks are displayed in red 
 •	New IP calculations are displayed in green 
 •	Data from the database or file is displayed in purple 
+• Double-clicking on the IP address loads it for editing.
 />
 -------------------------------
 <img width="746" height="520" alt="2025-10-29 18_53_12-JX's IPv4-Calculator" src="https://github.com/user-attachments/assets/e4d109cc-702f-4596-bf9c-17ba3aea76cc" />
