@@ -1,4 +1,5 @@
 This release provides a stable version of a specially developed IPv4 network computer with many special features. Additional features are described in the ReadMe file.
+Fully written in Powershell 5.1
 
 Minimum requirements:
 Windows 10 or Windows 11 Administrator rights Architecture: x86 (32-bit) and/or x64 (64-bit)
