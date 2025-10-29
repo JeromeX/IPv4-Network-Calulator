@@ -4,7 +4,13 @@ Fully written in Powershell 5.1
 Minimum requirements:
 Windows 10 or Windows 11 Administrator rights Architecture: x86 (32-bit) and/or x64 (64-bit)
 
-Funktions:
+Installation:
+------------
+1. extract file anywhere
+2. copy flag_de.png and flag_en.png in same directory
+3. RUN
+
+Functions:
 ----------
 <
 •	Manual entry of an IP address
