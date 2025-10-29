@@ -5,20 +5,22 @@ Windows 10 or Windows 11 Administrator rights Architecture: x86 (32-bit) and/or 
 
 Funktions:
 ----------
-•	<Manual entry of an IP address />
-•	<Analysis of the IP address (class affiliation) />
-•	<Fully Smooth help file for colour codes and CIDR />
-•	<Output of the calculation per network />
-•	<Copy function for the IP address for quick copy & paste />
-•	<Export of multiple calculated networks />
-•	<Import function for .txt and .csv files – all IP addresses are automatically recognised />
-•	<Reset function for the output window />
-•	<A database file is created when a calculation is first created and is queried each time the programme is started />
-•	<Recycling function for emptying the database />
-•	<Right-clicking on the output window of one or more IP addresses deletes the calculated networks on request />
-•	<Duplicate networks are displayed in red />
-•	<New IP calculations are displayed in green />
-•	<Data from the database or file is displayed in purple />
+<
+•	Manual entry of an IP address
+• Analysis of the IP address (class affiliation) 
+•	Fully Smooth help file for colour codes and CIDR 
+•	Output of the calculation per network 
+•	Copy function for the IP address for quick copy & paste 
+•	Export of multiple calculated networks 
+•	Import function for .txt and .csv files – all IP addresses are automatically recognised 
+•	Reset function for the output window 
+•	A database file is created when a calculation is first created and is queried each time the programme is started 
+•	Recycling function for emptying the database 
+•	Right-clicking on the output window of one or more IP addresses deletes the calculated networks on request 
+•	Duplicate networks are displayed in red 
+•	New IP calculations are displayed in green 
+•	Data from the database or file is displayed in purple 
+/>
 -------------------------------
 <img width="746" height="520" alt="2025-10-29 18_53_12-JX's IPv4-Calculator" src="https://github.com/user-attachments/assets/e4d109cc-702f-4596-bf9c-17ba3aea76cc" />
 <img width="758" height="529" alt="2025-10-29 18_52_52-JX's IPv4-Calculator" src="https://github.com/user-attachments/assets/73c832f3-6be8-460c-b1a3-83073430bc06" />
