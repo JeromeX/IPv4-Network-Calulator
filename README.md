@@ -52,7 +52,8 @@ Functions:
 <img width="746" height="518" alt="2025-10-29 19_24_30-JX's IPv4-Calculator" src="https://github.com/user-attachments/assets/ad0ee9fa-b8b9-4a60-bb45-780fc11e4c4e" />
 <img width="746" height="518" alt="2025-10-29 19_23_58-JX's IPv4-Calculator" src="https://github.com/user-attachments/assets/2df5657e-d129-46f0-b470-ed11f1634d82" />
 <img width="745" height="518" alt="2025-10-29 19_26_02-JX's IPv4-Calculator" src="https://github.com/user-attachments/assets/a8a9bbff-2918-4c9e-8a74-b20227f765bd" />
-------------------------------
+
+<------------------------------/>
 updated release information, correct recalculation of network and hover my mouse
--------------------
+<-------------------
 <img width="745" height="548" alt="2025-10-30 23_22_12-C__Users_malte speck_OneDrive_Projekte_Github_JX&#39;s IPv4-Calculator_v2 – Datei-Ex" src="https://github.com/user-attachments/assets/1242ad62-e1fa-47f0-9410-f1d4bde7c405" />
